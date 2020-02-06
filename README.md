@@ -2,4 +2,8 @@
 
 Google Apps script function to transform Google Sheets rows into array of key-value pairs.
 
-![Example image](example.png)
+![Usage example](usage-example.png?raw=true)
+
+## Sample function call
+
+    =rowsToArray("A2:A9","B2:B9","Cs2:C9", FALSE)
